@@ -46,13 +46,14 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Experiment :
 
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
+![Screenshot 2024-11-11 041353](https://github.com/user-attachments/assets/bce0a163-1080-48a7-8c12-fc8810e16769)
 
 # Program :
-
+![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 
 # Output : 
-
+![Screenshot 2024-11-11 041353](https://github.com/user-attachments/assets/bce0a163-1080-48a7-8c12-fc8810e16769)
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
